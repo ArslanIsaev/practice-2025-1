@@ -1,6 +1,6 @@
 # Проектная (учебная) практика
 
-# https://github.com/ArslanIsaev/ProjectPractice
+# 
 # GitHub со всем заданиями, перейдите туда
 
 
